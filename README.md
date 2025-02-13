@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-✨ I am a dedicated Full-Stack Developer with a strong focus on building efficient and user-friendly web applications using technologies like <strong>Laravel</strong> and <strong>Vue.js</strong>. I love solving real-world problems with clean, intuitive solutions and ensuring every line of code has a purpose.
+✨ I am a dedicated Full-Stack Developer with a strong focus on building efficient and user-friendly web applications using technologies like <strong>Laravel</strong> and <strong>Vue.js</strong>, <strong>React.js</strong>. I love solving real-world problems with clean, intuitive solutions and ensuring every line of code has a purpose.
 </p>
 
 <p align="left">
