@@ -18,4 +18,3 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,laravel,vue,react,figma,git,github,php,mysql,postman,vscode,vercel,netlify,py,selenium" alt="Technologies and Tools" />
 </p>
 
-<h4 align="center">📌 Check out my <a href="https://isherezahin.vercel.app/">Portfolio</a> to explore my projects and journey!</h4>
