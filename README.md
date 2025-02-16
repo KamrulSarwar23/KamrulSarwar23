@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Kamrul Hasan</h1>
-<h3 align="center">Full-Stack Developer | Laravel | Vue.js | React.js</h3>
+<h3 align="center">Full-Stack Developer PHP | Laravel | Vue.js | React.js</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C9FF&center=true&width=600&lines=Passionate+Full-Stack+Developer.;Building+Efficient+Web+Applications.;Crafting+Seamless+User+Experiences.;Currently+Mastering+React.js+to+Level+Up!" alt="Typing Animation" />
