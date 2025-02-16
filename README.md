@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Kamrul Sarwar</h1>
+<h1 align="center">Hey 👋, I'm Kamrul Hasan</h1>
 <h3 align="center">Full-Stack Developer | Laravel | Vue.js | React.js</h3>
 
 <p align="center">
