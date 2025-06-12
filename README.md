@@ -15,7 +15,7 @@
 
 <h3 align="left">Technologies & Tools I Work With:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,javascript,vue,react,nextjs,php,laravel, mysql,figma, git,github, postman,vscode,vercel,netlify" alt="Technologies and Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vue,react,php,laravel, mysql,figma, git,github, postman,vscode,vercel,netlify" alt="Technologies and Tools" />
 
 </p>
 
