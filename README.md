@@ -16,6 +16,5 @@
 <h3 align="left">Technologies & Tools I Work With:</h3>
 <p align="left">
  <img src="https://camo.githubusercontent.com/c2361917b749fecce055cafcec25f0bece382ccdf001436d16cd733d2291215a/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d68746d6c2c6373732c6a732c7461696c77696e642c626f6f7473747261702c6c61726176656c2c7675652c72656163742c6e6578742c6669676d612c6769742c6769746875622c7068702c6d7973716c2c706f73746d616e2c7673636f64652c76657263656c2c6e65746c6966792c7079" alt="Technologies and Tools" data-canonical-src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,laravel,vue,react,next,figma,git,github,php,mysql,postman,vscode,vercel,netlify,py" style="max-width: 100%;">
-
 </p>
 
